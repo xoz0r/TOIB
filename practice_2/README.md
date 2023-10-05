@@ -52,3 +52,7 @@ rm 1.txt
 ```
 ![Демонстрация работы](https://imgur.com/P7YOgCi)
 
+```bash
+https://imgur.com/a/xTrIOok
+```
+
