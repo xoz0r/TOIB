@@ -2,7 +2,7 @@
 
 Выполнил Бакин Д.И., группа ББМО-01-23
 
-## Общая структура сети
+## Общая структурная схема сети
 
 ![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/112d927a-5c55-4b38-88e5-e51ee6a609c8)
 
@@ -103,18 +103,6 @@ RB(config)# ip route 192.168.1.0 255.255.255.0 10.10.10.1
 
 ![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/a31a0fde-45fb-4083-aa1b-ec967792456e)
 
+## Проверка правильности выполнения работы
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/49ec028a-e914-4f7f-963c-a5c74d39b06f)
