@@ -22,7 +22,7 @@ OpenVAS
 
 Проведение сканирования портов и сервисов на DVL с использованием Nmap. 
 
-![297427203-72e99c52-88d8-41d0-a58c-aadd21a766df (1)](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/2b216411-c244-41dd-815a-9274614629e3)
+![5 (1)](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/463b6ed4-c5df-4d5f-a354-2b579a71af01)
 
 Выполнение сканирования уязвимостей на DVL с помощью OpenVAS.
 
