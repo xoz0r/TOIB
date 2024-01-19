@@ -59,7 +59,7 @@ JohnTheRipper
 
 ![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/644d6719-2309-4471-9fff-b212d4d80941)
 
-![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/3e018759-f0b0-4a6f-b20e-b66783eebcf1)
+![297468579-3e018759-f0b0-4a6f-b20e-b66783eebcf1](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/3166ec09-94ad-4486-86ec-a7de0d67e288)
 
 
 # 5. Сетевая Защита и Защита От Вторжений: 
