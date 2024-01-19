@@ -70,7 +70,7 @@ JohnTheRipper
 
 Настройка и использование Snort
 
-![image](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/2049f60c-0ccc-425b-a38b-f9a2d519d27b)
+![297475853-2049f60c-0ccc-425b-a38b-f9a2d519d27b](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/f5b8770c-7b9f-479d-a7a4-0cc5674bb3eb)
 
 ![16 (1)](https://github.com/xoz0r/TOIB_Bakin/assets/145142526/8d13c664-4f5a-4f5f-b04a-6f374f2b13d8)
 
